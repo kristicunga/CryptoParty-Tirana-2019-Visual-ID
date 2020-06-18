@@ -4,4 +4,4 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/CryptoParty), CryptoParty
 
 [Here you can find the full case study on Behance](https://www.behance.net/gallery/87953591/CryptoParty-Tirana-2019).
 
-More about CryptoParty Tirana 2019 you can find (here)[https://wiki.openlabs.cc/faqja/CryptoParty_Tirana_2019], or [here](https://wiki.openlabs.cc/faqja/CryptoParty_Tirana_2019), or (here)[https://openlabs.cc/open-labs-me-mbeshtetjen-e-hack42-organizojne-cryptoparty-tirana-2019/], or [here](https://forum.openlabs.cc/t/cryptoparty-tirana-2019/1917).
+More about CryptoParty Tirana 2019 you can find [here](https://wiki.openlabs.cc/faqja/CryptoParty_Tirana_2019), or [here](https://wiki.openlabs.cc/faqja/CryptoParty_Tirana_2019), or [here](https://openlabs.cc/open-labs-me-mbeshtetjen-e-hack42-organizojne-cryptoparty-tirana-2019/), or [here](https://forum.openlabs.cc/t/cryptoparty-tirana-2019/1917).
